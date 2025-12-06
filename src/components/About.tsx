@@ -16,7 +16,7 @@ I'm Zoya Shaikh, and I'm a frontend web developer dedicated to turning ideas int
 
 
             </span>
-               <a  href="https://drive.google.com/file/d/1BBk5_l0JYhIgLK2LQMoMaQFl4-aMzbrU/view?usp=drivesdk" className=" text-white mt-8 border px-8 py-3 border-blue-500 rounded-4xl hover:bg-blue-400 font-mont">Download Resume</a>
+               <a  href="https://drive.google.com/drive/folders/1X7TmzWlY_uNtq_UQk6bSPqrgKgCU8wVf">Download Resume</a>
 
             </div>
             
