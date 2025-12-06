@@ -1,0 +1,21 @@
+/* 1. ⚠️ ABSOLUTE TOP: Import the Oleo Script font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+/* 2. Import Tailwind CSS */
+@import "tailwindcss"; 
+/* If using Tailwind v3, you might need to change the line above to:
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+*/
+
+/* 3. Define the custom font variables using the @theme directive */
+@theme {
+  /* This creates the --font-oleo CSS variable, usable as 'font-oleo' class */
+  --font-oleo: "Oleo Script", cursive; 
+  --font-poppins: "Poppins", sans-serif; 
+  
+  /* 💡 ADDED: This creates the --font-mont CSS variable, usable as 'font-mont' class */
+  --font-mont: "Montserrat", sans-serif;
+}
