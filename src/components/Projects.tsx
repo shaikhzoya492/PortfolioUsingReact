@@ -56,6 +56,12 @@ const projectsData=[
                 for: 'Project',
                 img:'/Portfolio_page.jpeg',
                 link:'#'
+            },
+          {
+                name:'Master Electronics',
+                for: 'Project',
+                img:'/MasterElectronics.jpeg',
+                link:'https://masterelectronics.netlify.app/'
             }
     ],
 },
